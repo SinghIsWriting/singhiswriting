@@ -1,4 +1,10 @@
-<h1 align="center">Hey 👋, I'm Abhishek Singh</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fa36ebab-2c92-4716-8e36-d8919b8f61a7" alt="banner" height="300" width="750"/>
+</p>
+
+
+<h1 align="center">Hey 👋,</h1>
+<h1 align="center">I'm Abhishek Singh</h1>
 <h3 align="center">A dedicated and proficient full stack developer from India, committed to delivering top-tier solutions.</h3>
 
 - - -
@@ -46,3 +52,5 @@
 </div> 
 
 - - -
+
+![snake gif](https://github.com/SinghIsWriting/SinghIsWriting/blob/output/github-contribution-grid-snake.svg)
