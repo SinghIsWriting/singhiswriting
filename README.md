@@ -1,10 +1,5 @@
 <h1 align="center">Hey 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A dedicated and proficient full stack developer from India, committed to delivering top-tier solutions.</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" width=450 height=400 src="https://github.com/user-attachments/assets/f8c2bf01-a100-417c-8a82-147ef7736d68" alt="singhiswriting-code" />
-  </a>
-</p>
 
 - - -
 
