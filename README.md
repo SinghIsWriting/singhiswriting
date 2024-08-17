@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hey 👋,</h1>
-<h1 align="center">I'm Abhishek Singh</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00E8F7&center=true&vCenter=true&repeat=false&width=441&height=55&lines=I'm+Abhishek+Singh" alt="Typing SVG" /></a></h1>
 <h3 align="center">A dedicated and proficient full stack developer from India, committed to delivering top-tier solutions.</h3>
 
 - - -
