@@ -53,4 +53,8 @@
 
 - - -
 
+<!---
 ![snake gif](https://github.com/SinghIsWriting/SinghIsWriting/blob/output/github-contribution-grid-snake.svg)
+-->
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00E8F7&center=true&vCenter=true&repeat=true&width=541&height=55&lines=Thanks+for+visiting+👋+" alt="Typing SVG" /></a></h1>
