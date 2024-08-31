@@ -9,19 +9,19 @@
 
 - - -
 
-- 🔭 I’m currently working on [Literature Learning Web App with AI support](https://github.com/SinghIsWriting/)
+- 🔭 I’m currently working on [Literature Learning Web App with AI support](https://github.com/SinghIsWriting?tab=repositories)
 
 - 🌱 I’m currently learning **MERN Stack and GCP Engines**
 
 - 👯 I’m looking to collaborate on **Real World Solution with AI**
 
-- 👨‍💻 All of my projects are available at [github.com/SinghIsWriting?tab=repositories](https://github.com/SinghIsWriting?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects on GitHub](https://github.com/SinghIsWriting?tab=repositories)
 
 - 💬 Ask me about **Django Web Framework (Python, HTML, CSS & JS), C/C++, DBMS and Linux**
 
 - 📫 How to reach me **sabhisheksingh343104@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/abhishek-singh-bba2662a9](www.linkedin.com/in/abhishek-singh-bba2662a9)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/abhishek-singh-bba2662a9)
 
 - - -
 
