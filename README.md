@@ -44,7 +44,7 @@
 
 ### Profile Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singhiswriting&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=10&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singhiswriting&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=20&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
   &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=singhiswriting&show_icons=true&theme=dracula&locale=en" height="180" alt="singhiswriting" /></p>
 </div>
 <div align="center">
