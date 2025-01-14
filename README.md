@@ -9,8 +9,6 @@
 
 - - -
 
-- 🔭 I’m currently working on [Literature Learning Web App with AI support](https://github.com/SinghIsWriting?tab=repositories)
-
 - 🌱 I’m currently learning **MERN Stack and GCP Engines**
 
 - 👯 I’m looking to collaborate on **Real World Solution with AI**
