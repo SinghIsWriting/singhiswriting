@@ -88,6 +88,15 @@
       height="40"
     />
   </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img
+      style="color: white; background-color: white"
+      src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"
+      alt="django"
+      width="40"
+      height="40"
+    />
+  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
