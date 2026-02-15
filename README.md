@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Django Web Framework (Python, HTML, CSS & JS), C/C++, DBMS and Linux**
 
-- 📫 How to reach me, visit **👉[My Portfolio Page](https://portfolio-abhishek-singh-nine.vercel.app/)👈**
+- 📫 How to reach me, visit **👉[My Portfolio Page](https://me.devhome.me/)👈**
 
 - 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/abhishek-singh-bba2662a9)**
 
@@ -44,7 +44,7 @@
       font-weight: 700;
       font-family: sans-serif;
       margin-top: 6px;"
-    href="https://portfolio-abhishek-singh-nine.vercel.app/"
+    href="https://me.devhome.me/"
     target="blank"
     >👉 Portfolio 👈</a>
 </p>
